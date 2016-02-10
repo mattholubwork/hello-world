@@ -1,2 +1,2 @@
 # hello-world
-trying it out
+This is a test.
